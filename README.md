@@ -1,0 +1,1 @@
+Following Kadenze course [creative applications of tensor flow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-iv). A lot of the code comes from [the class website](https://github.com/pkmital/CADL).
