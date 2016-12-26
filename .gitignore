@@ -1,4 +1,8 @@
+# General
+.ipynb_checkpoints
 .DS_Store
 .DS_Store?
+
+# Session 1
 session1/prework/*
 session1/libs/__pycache__/*
