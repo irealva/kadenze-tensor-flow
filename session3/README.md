@@ -1,3 +1,3 @@
 # Session 3 - Unsupervised and Supervised Learning
 
-Assignment: 
+Assignment: Build Unsupervised and Supervised Networks
